@@ -10,10 +10,9 @@ MongoDB
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
 MagicMaman is a Mobile Application that helps new parents and guide them to follow their baby with his Food, Sleep, Growth and Health, just with easy and simple steps you can create a profile for the parent and the baby and start the journey.
 
-you can also set vaccination reminders and store your child’s medical documents using the app. Also, in case you get tired and want to read some parenting articles,
+you can also set vaccination reminders and store your child’s medical documents using the app. Also, in case you get tired and want to read some parenting articles.
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -22,7 +21,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them.
-
+to create this application you need to install some softwares:
+first you need AndroidStudio software for the frontEnd.
+and for the BackEnd you need NodeJs.
 ```
 Give examples
 ```
