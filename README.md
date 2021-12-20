@@ -10,9 +10,7 @@ MongoDB
 
 ## About <a name = "about"></a>
 
-MagicMaman is a Mobile Application that helps new parents and guide them to follow their baby with his Food, Sleep, Growth and Health, just with easy and simple steps you can create a profile for the parent and the baby and start the journey.
-
-you can also set vaccination reminders and store your child’s medical documents using the app. Also, in case you get tired and want to read some parenting articles.
+MagicMaman is a Mobile Application that helps new parents and guide them to follow their baby with his Food, Sleep, Growth and Health.
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -20,17 +18,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
-to create this application you need to install some softwares:
-first you need AndroidStudio software for the frontEnd.
+to create this application you need to install some softwares:\
+first you need AndroidStudio software for the frontEnd.\
 and for the BackEnd you need NodeJs.
-```
-Give examples
-```
+
+![github capture](https://user-images.githubusercontent.com/73668745/146806038-0840ed7e-8a38-48f0-97be-866030412344.PNG)
+
+
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+A step by step series of examples that tell you how to get a development env running.(###to do )
 
 Say what the step will be
 
@@ -46,6 +44,8 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## Usage <a name = "usage"></a>
+### Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+With easy and simple steps you can create a profile for the parent and the baby and start the journey.\
+you can also set vaccination reminders and store your child’s medical documents using the app. Also, in case you get tired and want to read some parenting articles.
+ 
